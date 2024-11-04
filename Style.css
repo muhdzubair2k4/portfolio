@@ -296,7 +296,8 @@ section h2 {
     background-color: #111;
     padding: 10rem 5%;
     color: white;
-    height: auto;
+    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); 
+    min-height: auto;
 }
 
 .service-container {
@@ -345,11 +346,12 @@ section h2 {
 
 /* Skills Section */
 #skills {
-    background-color: #222; /* Dark background for contrast */
-    padding: 8rem 5%; /* Spacing around the section */
-    color: white; /* Text color */
-    border-radius: 1rem; /* Rounded corners */
-    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); /* Subtle shadow */
+    background-color: #222; 
+    padding: 8rem 5%; 
+    color: white; 
+    border-radius: 1rem; 
+    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); 
+    min-height: auto;
 }
 
 section h2 {
@@ -402,6 +404,8 @@ section h2 {
     background-color: #111;
     padding: 8rem 9%;
     color: white;
+    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); 
+    min-height: auto;
 }
 
 .education-container {
@@ -444,6 +448,8 @@ section h2 {
     padding: 08rem 9%;
     background-color: #161616;
     color: white;
+    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); 
+    min-height: auto;
 }
 
 .experience-container {
@@ -485,6 +491,8 @@ section h2 {
     padding: 8rem 9%;
     color: white;
     text-align: center;
+    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); 
+    min-height: auto;
 }
 
 #contact p {
@@ -498,6 +506,8 @@ section h2 {
     background-color: #161616;
     padding: 4rem 9%;
     color: white;
+    box-shadow: 0 0 20px rgba(0, 174, 239, 0.5); 
+    min-height: auto;
 }
 
 #hire form {
